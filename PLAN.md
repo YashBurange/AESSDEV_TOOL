@@ -74,3 +74,11 @@ Read the `.STL` wing geometry, set up and run SPHinXsys fluid simulations for a 
 3.  Analyze the final Cl/Cd vs. AoA results from the output file.
 
 --- 
+
+
+## TODO
+
+1. Aarya working on part 1
+2. Start work on part 2:
+    a. Input: NURBS vectors
+    b. Output: Lift/Drag value
