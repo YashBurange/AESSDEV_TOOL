@@ -28,7 +28,7 @@ Programmatically load a wing geometry from a `.STEP` file, clean it, and export 
 ## Part 2: C++ SPH Simulation Program (`wing_simulation`)
 
 ### Goal
-Read the `.STL` wing geometry, set up and run SPHinXsys fluid simulations for a range of AoAs, compute aerodynamic forces, and output Cl/Cd values.
+Read the `.STL` wing geometry, set up and run SPHinXsys fluid simulations for a range of AoAs, compute aerodynamic forces, and output Cl/Cd values. 
 
 ### Steps
 1.  **Project Setup:**
